@@ -1,4 +1,4 @@
-カメラが見つかりませんエラー
+# カメラが見つかりませんエラー
 <p align="center">
   <img src="images/Camera_file_not_found.png" alt="required_connections" width="600">
 </p>
