@@ -7,6 +7,7 @@ English / [日本語](./README_ja.md)
 </p>
 When you open the old Nuke script, sometimes you might see this dialog showing up.  
 This occurs when Nuke can't load a Camera from the original file path.
+If you double-click the Camera node, Nuke may crash immediately.
 To solve this issue I made a code that replaces the outdated path with a new one in Nuke.  
 
 ###
