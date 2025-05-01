@@ -1,4 +1,7 @@
 # Camera-file-not-found
+
+English / [Japanese](./README.md)
+
 <p align="center">
   <img src="images/Camera_file_not_found.png" alt="required_connections" width="600">
 </p>
