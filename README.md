@@ -1,6 +1,6 @@
 # Camera-file-not-found
 
-English / [Japanese](./README_ja.md)
+English / [日本語](./README_ja.md)
 
 <p align="center">
   <img src="images/Camera_file_not_found.png" alt="required_connections" width="600">
