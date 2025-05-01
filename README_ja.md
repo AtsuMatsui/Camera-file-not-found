@@ -1,6 +1,6 @@
 # カメラが見つかりませんエラー
 
-[English](./README.md) / Japanese
+[English](./README.md) / 日本語
 
 <p align="center">
   <img src="images/Camera_file_not_found.png" alt="required_connections" width="600">
